@@ -1,10 +1,10 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I'm Victor Hugo!<br>
 
 A Business Administration undergraduate at UFAM and an Innovation Technology Center (NIT) intern at SIDIA, passionate about data, automation, and technology-driven problem solving.<br><br>
 🔭 I'm currently working on:<br>
 Designing automation workflows, managing research data, and supporting innovation initiatives at SIDIA's Innovation Technology Center (NIT).<br><br>
-👯 I'm looking to collaborate on:<br>
+🎮 I'm looking to collaborate on:<br>
 Data Engineering, Backend Development, ETL pipelines, analytics, and open-source projects.<br><br>
 🤝 I'm looking for help with:<br>
 Airflow orchestration, cloud-based data platforms, distributed processing, and modern data architecture practices.<br><br>

@@ -1,4 +1,4 @@
-```markdown
+markdown
 <div align="center">
 
 <!-- Banner / Typing Animation -->
@@ -47,14 +47,14 @@ Passionate about building data-driven solutions, automating processes, and turni
 
 
 
-**`>_ CLOUD, TOOLS & DEVOPS`**
+**`>_ CLOUD, TOOLS & DEVOPS
 
 
 
 ---
 
-### 📊 `[MAINFRAME_TELEMETRY]`
+### 📊 `[MAINFRAME_TELEMETRY]
 
 ---
 
-### 🐍 `[DATA_STREAM_CONTRIBUTION]`
+### 🐍 `[DATA_STREAM_CONTRIBUTION]

@@ -1,4 +1,4 @@
-prompt• # About Me:
+# About Me:
 👋 Hi, I'm Victor Hugo!<br>
 
 A Business Administration undergraduate at UFAM and an Innovation Technology Center (NIT) intern at SIDIA, passionate about data, automation, and technology-driven problem solving.<br><br>
